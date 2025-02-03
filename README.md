@@ -10,12 +10,12 @@ I am a final-year computer science grad, passionate developer with experience in
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=MySQL)
-![Node](https://img.shields.io/badge/-Node-000?&logo=Node)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![React](https://img.shields.io/badge/-React-000?&logo=MySQL)
-![Next](https://img.shields.io/badge/-Next-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Static Badge](https://img.shields.io/badge/AWS-black?logo=amazonwebservices)
+![Static Badge](https://img.shields.io/badge/Node-black?logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/Express-black?logo=express)
+![Static Badge](https://img.shields.io/badge/React-black?logo=react)
+![Static Badge](https://img.shields.io/badge/Next-black?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/Mongo-black?logo=mongodb)
 
 #### and many more ....
 
