@@ -1,5 +1,3 @@
-I am a final-year computer science grad
-
 🚀 Always on the run to find and make something better, more accessible and fun to use
 
 ### Languages
